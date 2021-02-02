@@ -1,10 +1,10 @@
-# Hello, welcome to my profile..
+# Hi there, welcome to my profile..
 
-### I am Hemant, an aspiring engineer and enhusiastic programmer. 
+### I am Hemant, an aspiring engineer and enthusiastic programmer. 
 #### I'm from India and a Computer science engineering student at MAKAUT university.
 
 I just love to learn new things and explore different areas. I like to do competitive programming as well as development projects.
-I have worked with Web-Development both frontend and backend, and I am quite experienced with Androide Studio.
+I have worked with Web-Development both frontend and backend, and I am quite experienced with Android Studio too.
 
 ### My Skills :
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
