@@ -1,6 +1,6 @@
-# Hi there, welcome to my profile..
+# Hi , I am Hemant..
 
-### I am Hemant, an aspiring engineer and enthusiastic programmer. 
+### I am an aspiring engineer and enthusiastic programmer. 
 #### I'm from India and a Computer science engineering student at MAKAUT university.
 
 I just love to learn new things and explore different areas. I like to do competitive programming as well as development projects.
