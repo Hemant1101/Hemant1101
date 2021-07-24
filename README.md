@@ -1,10 +1,10 @@
-# Hi , I am Hemant..
+# Hi , I am Hemant...<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32px">
 
 ### I am an aspiring engineer and enthusiastic programmer. 
 #### I'm from India and a Computer science engineering student at MAKAUT university.
 
-I just love to learn new things and explore different areas. I like to do competitive programming as well as development projects.
-I have worked with Web-Development both frontend and backend, and I am quite experienced with Android Studio too.
+##### I just love to learn new things and explore different areas. I like to do competitive programming as well as development projects. 
+##### I have worked with Web-Development both frontend and backend, and I am quite experienced with Android Studio too.
 
 ### My Skills :
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
@@ -17,7 +17,10 @@ I have worked with Web-Development both frontend and backend, and I am quite exp
 <br>
 
 ### My Projects :
-Github Profiles: [<img src="https://img.icons8.com/fluent/24/000000/link.png"/>](https://jolly-fermi-062ac9.netlify.app)
+
+| 💻 **Technology**   | 🚀 **Projects**   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) ![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=blue&logo=CSS3&logoColor=FFFFFF) | [![web-portfolio](https://img.shields.io/static/v1?label=&message=Github-Profiles&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/Hemant1101/web_Devs/tree/main/Github%20profiles)  [<img src="https://img.icons8.com/fluent/18/000000/link.png"/>](https://jolly-fermi-062ac9.netlify.app) |
 
 <br>
 
