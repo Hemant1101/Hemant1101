@@ -17,7 +17,7 @@ I have worked with Web-Development both frontend and backend, and I am quite exp
 <br>
 
 ### My Projects :
-Github Profiles: [<img src="https://img.icons8.com/ios-glyphs/30/000000/link--v1.png"/>](https://jolly-fermi-062ac9.netlify.app)
+Github Profiles: [<img src="https://img.icons8.com/fluent/24/000000/link.png"/>](https://jolly-fermi-062ac9.netlify.app)
 
 <br>
 
