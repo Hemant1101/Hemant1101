@@ -16,6 +16,11 @@ I have worked with Web-Development both frontend and backend, and I am quite exp
 
 <br>
 
+### My Projects :
+[Github Profiles](https://jolly-fermi-062ac9.netlify.app)
+
+<br>
+
 #### connect with me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='50'>](https://www.codechef.com/users/hemant1101) 
