@@ -7,8 +7,7 @@
 ##### I have worked with Web-Development both frontend and backend, and I am quite experienced with Android Studio too.
 
 ### My Skills :
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  <img src="https://img.shields.io/badge/REACT-1F232A?style=for-the-badge&logo=react&logoColor=#61DBFB" />  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <br>
 
 ### My Projects :
@@ -26,5 +25,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50'>](https://www.linkedin.com/in/hemant-kumar-mandal-417a491b0/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg' alt='hackerearth' height='50'>](https://www.hackerearth.com/@hemantkumar31)
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemant1101&layout=compact&hide_border=true&theme=radical" />
+<div>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hemant1101&layout=compact&hide_border=true&theme=radical" />   
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemant1101&layout=compact&hide_border=true&theme=radical" />
+</div>
